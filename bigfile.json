@@ -1,12 +1,12 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bigfile/bigfile/releases/download/v1.0.4/bigfile_1.0.4_windows_amd64.zip",
+            "url": "https://github.com/bigfile/bigfile/releases/download/v1.0.5/bigfile_1.0.5_windows_amd64.zip",
             "bin": [
                 "bigfile.exe"
             ],
-            "hash": "a306070a9c17931a3de4720a586c638abd9f659d627558a58ca7c9bb10bd198a"
+            "hash": "53fdc2dd1caefbc57b89d9a025839a00499f65dfe5949ad6d1318707e6aa2306"
         }
     },
     "homepage": "https://bigfile.site",
