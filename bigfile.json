@@ -6,14 +6,14 @@
             "bin": [
                 "bigfile.exe"
             ],
-            "hash": "a83db8f406f921d59d6a9a663a0310b1d58b769d0da1257ef0559a2dda6afac3"
+            "hash": "62712c820a96bb4764bac6e63952d064d51c0d90cfca43d50b1bf5734cbdc10a"
         },
         "64bit": {
             "url": "https://github.com/bigfile/bigfile/releases/download/v1.0.7/bigfile_1.0.7_windows_amd64.zip",
             "bin": [
                 "bigfile.exe"
             ],
-            "hash": "b33b142d273056f3920f2b4f987fa165b028da57e46cd9c7666537c3210e4cf0"
+            "hash": "3d44561fc2acc656effe3f046dd5d321083eba698c7febbfb99607e13c9491a7"
         }
     },
     "homepage": "https://bigfile.site",
